@@ -1,0 +1,10 @@
+[
+  {
+    "query": "赤いランニングシューズ",
+    "relevant_ids": ["item_001", "item_003", "item_007"]
+  },
+  {
+    "query": "防水の黒いリュック",
+    "relevant_ids": ["item_010", "item_012"]
+  }
+]
